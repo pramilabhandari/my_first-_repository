@@ -1,4 +1,12 @@
 #include<stdio.h>
+
+void printName(){
+  char name[50];
+  printf("enter user name: ");
+  scanf("%s", name);
+  printf("\n name is %s", name);
+  
+}
 //u -> untracked
 
 int main() {
