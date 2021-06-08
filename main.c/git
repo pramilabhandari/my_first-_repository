@@ -1,0 +1,6 @@
+#include<stdio.h>
+//u -> untracked
+
+int main() {
+    printf("Hello World");
+}
